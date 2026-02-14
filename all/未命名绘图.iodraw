@@ -115,7 +115,7 @@
           <mxGeometry x="423.5" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425.25" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="423.5" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-24" value="XGBoost优化模型构建与性能评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="110" height="30" as="geometry" />
