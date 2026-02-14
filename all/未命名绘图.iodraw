@@ -108,6 +108,9 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-21" value="霍普金森压杆试验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="165" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-22" target="_jON4CMAe_wgebh7RDSM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -124,12 +127,9 @@
           <mxGeometry x="620" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-27" value="结论与工程应用建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="110" height="30" as="geometry" />
+          <mxGeometry x="630" y="405" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-13" target="_jON4CMAe_wgebh7RDSM-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_jON4CMAe_wgebh7RDSM-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.578;entryY=0.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-22" target="_jON4CMAe_wgebh7RDSM-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
