@@ -63,6 +63,9 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="240" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-8" target="_jON4CMAe_wgebh7RDSM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="150" y="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -95,6 +98,9 @@
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-18" value="多模型组合性能对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432" y="70" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-19" target="_jON4CMAe_wgebh7RDSM-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="120" height="40" as="geometry" />
