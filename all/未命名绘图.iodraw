@@ -79,7 +79,7 @@
           <mxGeometry x="170" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-15" value="多模型组合对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="448" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="432" y="80" width="92" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
