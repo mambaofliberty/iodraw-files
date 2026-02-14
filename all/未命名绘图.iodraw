@@ -84,6 +84,9 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-14" value="特征预处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="405" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-17" target="_jON4CMAe_wgebh7RDSM-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="160" width="120" height="40" as="geometry" />
         </mxCell>
@@ -112,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-24" value="XGBoost优化模型构建与性能评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430.25" y="245" width="110" height="30" as="geometry" />
+          <mxGeometry x="640" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-25" value="Optuna超参数优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="109.5" height="30" as="geometry" />
