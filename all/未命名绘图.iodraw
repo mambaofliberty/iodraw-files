@@ -114,9 +114,6 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-24" value="XGBoost优化模型构建与性能评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="428.5" y="245" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_jON4CMAe_wgebh7RDSM-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-25" target="_jON4CMAe_wgebh7RDSM-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-25" value="Optuna超参数优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430.5" y="165" width="109.5" height="30" as="geometry" />
         </mxCell>
