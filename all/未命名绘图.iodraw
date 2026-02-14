@@ -85,12 +85,7 @@
           <mxGeometry x="170" y="405" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="160" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_jON4CMAe_wgebh7RDSM-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="483.5" y="140" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="423.5" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-18" value="多模型组合性能对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432" y="70" width="103" height="30" as="geometry" />
@@ -114,7 +109,7 @@
           <mxGeometry x="425" y="245" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-25" value="Optuna超参数优化" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="427" y="165" width="106" height="30" as="geometry" />
+          <mxGeometry x="430.5" y="165" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-26" value="特征重要性分析与耦合机制探究" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="325" width="110" height="30" as="geometry" />
