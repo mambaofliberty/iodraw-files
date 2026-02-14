@@ -87,6 +87,9 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="423.5" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-18" target="_jON4CMAe_wgebh7RDSM-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-18" value="多模型组合性能对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="432" y="70" width="103" height="30" as="geometry" />
         </mxCell>
@@ -103,7 +106,7 @@
           <mxGeometry x="423.5" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="423.5" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-24" value="XGBoost优化模型构建与性能评估" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="428.5" y="245" width="110" height="30" as="geometry" />
@@ -115,7 +118,7 @@
           <mxGeometry x="428.5" y="325" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-27" value="结论与工程应用建议" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="405" width="110" height="30" as="geometry" />
+          <mxGeometry x="428.5" y="405" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-13" target="_jON4CMAe_wgebh7RDSM-3">
           <mxGeometry relative="1" as="geometry" />
