@@ -84,6 +84,9 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="170" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_jON4CMAe_wgebh7RDSM-18" value="多模型组合对比" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
