@@ -157,10 +157,10 @@
           <mxGeometry x="720" y="100" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-9" value="&lt;span style=&quot;font-family: Arial; font-size: 11pt;&quot;&gt;MLR&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="551.75" y="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-10" value="&lt;span style=&quot;font-family: Arial; font-size: 11pt;&quot;&gt;MLP&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="645" y="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-11" value="&lt;span style=&quot;font-family: Arial; font-size: 11pt;&quot;&gt;RF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="180" width="60" height="30" as="geometry" />
