@@ -203,14 +203,10 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-50" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;多模型组合性能对比&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="423.38" y="-80" width="254.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0ipkxF6fjvmA5F7M0cpj-52" target="0ipkxF6fjvmA5F7M0cpj-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="10" y="90" width="280" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-53" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;霍普金森压杆试验（SHPB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="115" width="180" height="30" as="geometry" />
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0ipkxF6fjvmA5F7M0cpj-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="169.99999999999955" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="409.63" y="730" width="280.37" height="80" as="geometry" />
@@ -219,7 +215,7 @@
           <mxGeometry x="470.75" y="435" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-56" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Optuna超参数优化&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="463.88" y="115" width="171.5" height="30" as="geometry" />
+          <mxGeometry x="453.88" y="105" width="171.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;特征重要性分析与耦合机制探究&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.5" y="755" width="142.5" height="30" as="geometry" />
@@ -266,9 +262,10 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-71" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt; background-color: initial;&quot;&gt;Optuna-XGBoost&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="516.5" y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="0ipkxF6fjvmA5F7M0cpj-52">
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="10.000000000000455" as="sourcePoint" />
+            <mxPoint x="150" y="89.99999999999955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-75" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
