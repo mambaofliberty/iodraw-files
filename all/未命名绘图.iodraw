@@ -46,7 +46,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_jON4CMAe_wgebh7RDSM-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-100" width="220" height="100" as="geometry" />
+          <mxGeometry x="60" y="-120" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="-120" width="280" height="120" as="geometry" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt; background-color: initial;&quot;&gt;Optuna-XGBoost&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="515.75" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315.75" y="-310" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
