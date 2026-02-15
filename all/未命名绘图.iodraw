@@ -171,7 +171,7 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-13" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt; background-color: initial;&quot;&gt;GridSearch-XGBoost&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="725" y="55" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-15" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt; background-color: initial;&quot;&gt;Optuna-XGBoost&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
