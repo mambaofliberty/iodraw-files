@@ -156,7 +156,7 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="-120" width="280" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;SFRC试件制备与复合盐腐蚀试验&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="431" y="-259" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
