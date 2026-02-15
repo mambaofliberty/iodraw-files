@@ -50,6 +50,9 @@
             <mxPoint x="540.8421052631579" y="4.547473508864641e-13" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-6" target="0ipkxF6fjvmA5F7M0cpj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="399.63" y="400" width="280.37" height="80" as="geometry" />
         </mxCell>
