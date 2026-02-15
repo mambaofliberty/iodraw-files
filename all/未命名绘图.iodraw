@@ -165,8 +165,11 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结论与工程应用建议&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
           <mxGeometry x="193" y="880" width="262.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0ipkxF6fjvmA5F7M0cpj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0ipkxF6fjvmA5F7M0cpj-21" target="_jON4CMAe_wgebh7RDSM-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="139.9999999999999" y="765" as="sourcePoint" />
+            <mxPoint x="332.88" y="-60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
