@@ -163,7 +163,7 @@
           <mxGeometry x="77.87" y="750" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结论与工程应用建议&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
-          <mxGeometry x="230" y="850" width="262.5" height="80" as="geometry" />
+          <mxGeometry x="193" y="880" width="262.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
