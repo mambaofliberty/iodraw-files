@@ -151,7 +151,7 @@
           <mxGeometry x="34.25" y="720" width="191.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-21" value="&lt;span style=&quot;font-family: Arial; font-size: 20px;&quot;&gt;Z-score&lt;font style=&quot;font-size: 20px;&quot; face=&quot;等线&quot;&gt;标准化&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="891" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="750" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
