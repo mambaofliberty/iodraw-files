@@ -51,17 +51,11 @@
         <mxCell id="_jON4CMAe_wgebh7RDSM-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="414" y="390" width="263.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_jON4CMAe_wgebh7RDSM-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jON4CMAe_wgebh7RDSM-8" target="_jON4CMAe_wgebh7RDSM-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="150" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-9" value="原始数据集构建" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-240" y="250" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="_jON4CMAe_wgebh7RDSM-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_jON4CMAe_wgebh7RDSM-10" target="_jON4CMAe_wgebh7RDSM-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_jON4CMAe_wgebh7RDSM-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="120" height="40" as="geometry" />
