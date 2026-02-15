@@ -184,6 +184,9 @@
         <mxCell id="0ipkxF6fjvmA5F7M0cpj-90" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 11pt; background-color: initial;&quot;&gt;Optuna-XGBoost&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="516.5" y="230" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0ipkxF6fjvmA5F7M0cpj-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.464;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_jON4CMAe_wgebh7RDSM-17" target="0ipkxF6fjvmA5F7M0cpj-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
