@@ -207,7 +207,7 @@
           <mxGeometry x="903.75" y="260" width="262.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TvAP-2QmmHmtbLLOhFUz-27" value="1、消息标准化&lt;div&gt;将输入封装为包含&lt;/div&gt;&lt;div&gt;多种content_blocks的&lt;/div&gt;&lt;div&gt;Message&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="310" width="235" height="90" as="geometry" />
+          <mxGeometry x="890" y="290" width="290" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
