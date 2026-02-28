@@ -194,8 +194,8 @@
         <mxCell id="TvAP-2QmmHmtbLLOhFUz-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="60" width="480" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="TvAP-2QmmHmtbLLOhFUz-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="75" width="60" height="30" as="geometry" />
+        <mxCell id="TvAP-2QmmHmtbLLOhFUz-22" value="多模态功能实现" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="75" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
